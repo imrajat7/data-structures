@@ -1,2 +1,2 @@
 # data-structures
-Implementation of the Data Structures.
+Implementation of various Data Structures.
